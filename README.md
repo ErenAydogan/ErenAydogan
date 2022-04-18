@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ErenAydogan
+- 👀 I’m interested in codding
+- 🌱 I’m currently learning JS
